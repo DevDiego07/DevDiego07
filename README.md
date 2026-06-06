@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Diego peralta Reyes 👋
 
-<!--
-**DevDiego07/DevDiego07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Software.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo y desarrollando proyectos con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Java
+- Python
+- SQL
+- Git y GitHub
+
+## Objetivos
+
+- Mejorar mis habilidades de programación.
+- Especializarme en desarrollo backend.
+- Construir proyectos reales para mi portafolio.
+- Contribuir a proyectos de código abierto.
+
+## Actualmente
+
+📚 Estudiando desarrollo de software.
+
+💻 Construyendo proyectos para fortalecer mi lógica de programación.
+
+🚀 Aprendiendo buenas prácticas de desarrollo.
