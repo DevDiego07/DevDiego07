@@ -1,12 +1,12 @@
 # Hola, soy Diego peralta Reyes 👋
 
-🎓 Estudiante de Desarrollo de Software.
+   Estudiante de Desarrollo de Software.
 
 Actualmente estoy aprendiendo y desarrollando proyectos con:
 
 - JavaScript
-- Java
 - Python
+- c#
 - SQL
 - Git y GitHub
 
@@ -19,8 +19,8 @@ Actualmente estoy aprendiendo y desarrollando proyectos con:
 
 ## Actualmente
 
-📚 Estudiando desarrollo de software.
+- Estudiando desarrollo de software.
 
-💻 Construyendo proyectos para fortalecer mi lógica de programación.
+- Construyendo proyectos para fortalecer mi lógica de programación.
 
-🚀 Aprendiendo buenas prácticas de desarrollo.
+- Aprendiendo buenas prácticas de desarrollo.
