@@ -1,4 +1,4 @@
-# Hola, soy Diego peralta Reyes 👋
+# Hola, soy Diego Peralta Reyes 👋
 
    Estudiante de Desarrollo de Software.
 
