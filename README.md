@@ -1,6 +1,6 @@
 # Hola, soy Diego Peralta Reyes 👋
 
-   Estudiante de Desarrollo de Software.
+   Estudiante de Ingenieria de Software.
 
 Actualmente estoy aprendiendo y desarrollando proyectos con:
 
