@@ -1,85 +1,58 @@
-<div align="center">
-
 # Diego Peralta Reyes
 
 ### Software Engineering Student • Backend Developer
 
-<p>
-Building backend applications | AI Automation.
-</p>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Always+Learning+New+Things" />
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ DevDiego07 / README.md                                                                                                      │
+├──────────────────────────────────────────────────────┬───────────────────────────────────────────────────────────────────────┤
+│ about.json                                           │ skills.json                                                       │
+│                                                      │                                                                   │
+│ {                                                    │ {                                                                 │
+│   "name": "Diego Peralta Reyes",                     │   "languages": [                                                  │
+│   "role": "Backend Developer",                       │      "JavaScript"                                                 │
+│   "specialization": "Node.js",                       │   ],                                                              │
+│   "education": "Software Engineering Student",       │                                                                   │
+│   "location": "Dominican Republic",                  │   "backend": [                                                    │
+│                                                      │      "Node.js",                                                   │
+│   "currently": [                                     │      "Express.js",                                                │
+│      "Learning Backend Development",                 │      "REST APIs"                                                  │
+│      "Building Real Projects",                       │   ],                                                              │
+│      "Improving Problem Solving"                     │                                                                   │
+│   ],                                                 │   "frontend": [                                                   │
+│                                                      │      "HTML",                                                      │
+│   "learning": [                                      │      "CSS",                                                       │
+│      "Express.js",                                   │      "JavaScript"                                                 │
+│      "JWT Authentication",                           │   ],                                                              │
+│      "API Design",                                   │                                                                   │
+│      "SQL Optimization"                              │   "database": [                                                   │
+│   ],                                                 │      "SQL Server"                                                 │
+│                                                      │   ],                                                              │
+│   "goals": [                                         │                                                                   │
+│      "Backend Engineering",                          │   "tools": [                                                      │
+│      "Build Scalable APIs",                          │      "Git",                                                       │
+│      "Open Source",                                  │      "GitHub",                                                    │
+│      "Continuous Learning"                           │      "VS Code",                                                   │
+│   ]                                                  │      "Postman"                                                    │
+│ }                                                    │   ]                                                               │
+│                                                      │ }                                                                 │
+└──────────────────────────────────────────────────────┴───────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-<table>
-<tr>
 
-<td width="50%" valign="top">
+## 📫 Contact
 
-## > about.json
+- **GitHub:** **DevDiego07**
+- **LinkedIn:** Diego Peralta Reyes
+- **Email:** your.email@example.com
 
-```json
-{
-  "name": "Diego Peralta Reyes",
-  "role": "Backend Developer",
-  "education": "Software Engineering Student",
-  "location": "Dominican Republic",
 
-  "currently": [
-    "Learning Software Development",
-    "Building Real Projects",
-    "Improving Programming Skills"
-  ],
-
-  "goals": [
-    "Backend Development",
-    "Build Real-World Applications",
-    "Open Source",
-    "Continuous Learning"
-  ]
-}
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-## > stack.json
-
-```json
-{
-  "backend": [
-    ".NET",
-    "Node.js",
-    "Express"
-  ],
-
-  "frontend": [
-    "HTML",
-    "CSS",
-    "JavaScript"
-  ],
-
-  "database": [
-    "SQL Server"
-  ],
-
-  "tools": [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Visual Studio"
-  ]
-}
-```
-
-</td>
-
-</tr>
-</table>
-
----
 
