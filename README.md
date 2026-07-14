@@ -22,11 +22,6 @@
   "education": "Software Engineering Student",
   "location": "Dominican Republic",
 
-"contact": {
-    "email": "peraltareyesdiego@gmail.com",
-    "linkedin": "[linkedin.com/in/diegoperaltareyes](https://linkedin.com/in/diegoperaltareyes)",
-    "portfolio": "https://devdiego07.github.io/Portafolio-web/"
-  }
 
   "currently": [
     "Learning Backend Development",
