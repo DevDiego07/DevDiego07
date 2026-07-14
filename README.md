@@ -83,10 +83,3 @@ Building backend applications with <strong>.NET</strong>, <strong>Node.js</stron
 
 ---
 
-## > Contact
-
-<div align="center">
-
-**LinkedIn** • **Email** • **Portfolio (Coming Soon)**
-
-</div>
