@@ -1,9 +1,25 @@
+<div align="center">
+
+# Diego Peralta Reyes
+
+### Software Engineering Student • Backend Developer
+
+<p>
+Building backend applications with <strong>.NET</strong>, <strong>Node.js</strong>, <strong>Express</strong> and <strong>SQL Server</strong>.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Always+Learning+New+Things" />
+
+</div>
+
+---
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 👨‍💻 About Me
+## 📄 about.json
 
 ```json
 {
@@ -13,13 +29,14 @@
   "location": "Dominican Republic",
 
   "currently": [
-    "Learning software development",
-    "Building real-world projects",
-    "Improving programming skills"
+    "Learning Software Development",
+    "Building Real Projects",
+    "Improving Programming Skills"
   ],
 
   "goals": [
     "Backend Development",
+    "Build Real-World Applications",
     "Open Source",
     "Continuous Learning"
   ]
@@ -30,7 +47,7 @@
 
 <td width="50%" valign="top">
 
-## ⚙️ Tech Stack
+## 📄 stack.json
 
 ```json
 {
@@ -63,3 +80,13 @@
 
 </tr>
 </table>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+**LinkedIn** • **Email** • **Portfolio (Coming Soon)**
+
+</div>
