@@ -19,7 +19,7 @@ Building backend applications with <strong>.NET</strong>, <strong>Node.js</stron
 
 <td width="50%" valign="top">
 
-## 📄 about.json
+## > about.json
 
 ```json
 {
@@ -47,7 +47,7 @@ Building backend applications with <strong>.NET</strong>, <strong>Node.js</stron
 
 <td width="50%" valign="top">
 
-## 📄 stack.json
+## > stack.json
 
 ```json
 {
@@ -83,7 +83,7 @@ Building backend applications with <strong>.NET</strong>, <strong>Node.js</stron
 
 ---
 
-## 📫 Contact
+## > Contact
 
 <div align="center">
 
