@@ -8,47 +8,82 @@
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ DevDiego07 / README.md                                                                                          │
-├──────────────────────────────────────────────────────┬──────────────────────────────────────────────────────────┤
-│ about.json                                           │ skills.json                                              │
-│                                                      │                                                          │
-│ {                                                    │ {                                                        │
-│   "name": "Diego Peralta Reyes",                     │   "languages": [                                         │
-│   "role": "Backend Developer",                       │      "JavaScript",                                       |
-|                                                             "Python"                                            │
-│   "specialization": "Node.js",                       │   ],                                                     │
-│   "education": "Software Engineering Student",       │                                                          │
-│   "location": "Dominican Republic",                  │   "backend": [                                           │
-│                                                      │      "Node.js",                                          │
-│   "currently": [                                     │      "Express.js",                                       │
-│      "Learning Backend Development",                 │      "REST APIs"                                         │
-│      "Building Real Projects",                       │   ],                                                     │
-│      "Improving Problem Solving"                     │                                                          │
-│   ],                                                 │   "frontend": [                                          │
-│                                                      │      "HTML",                                             │
-│   "learning": [                                      │      "CSS",                                              │
-│      "Express.js",                                   │      "JavaScript"                                        │
-│      "JWT Authentication",                           │   ],                                                     │
-│      "API Design",                                   │                                                          │
-│      "SQL Optimization"                              │   "database": [                                          │
-│   ],                                                 │      "SQL Server"                                        │
-│                                                      │   ],                                                     │
-│   "goals": [                                         │                                                          │
-│      "Backend Engineering",                          │   "tools": [                                             │
-│      "Build Scalable APIs",                          │      "Git",                                              │
-│      "Open Source",                                  │      "GitHub",                                           │
-│      "Continuous Learning"                           │      "VS Code",                                          │
-│   ]                                                  │      "Postman"                                           │
-│ }                                                    │   ]                                                      │
-│                                                      │ }                                                        │
-└──────────────────────────────────────────────────────┴──────────────────────────────────────────────────────────┘
+**about.json**
+
+```json
+{
+  "name": "Diego Peralta Reyes",
+  "role": "Backend Developer",
+  "specialization": "Node.js",
+  "education": "Software Engineering Student",
+  "location": "Dominican Republic",
+
+  "currently": [
+    "Learning Backend Development",
+    "Building Real Projects",
+    "Improving Problem Solving"
+  ],
+
+  "learning": [
+    "Express.js",
+    "JWT Authentication",
+    "API Design",
+    "SQL Optimization"
+  ],
+
+  "goals": [
+    "Backend Engineering",
+    "Build Scalable APIs",
+    "Open Source",
+    "Continuous Learning"
+  ]
+}
 ```
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**skills.json**
+
+```json
+{
+  "languages": [
+    "JavaScript",
+    "Python"
+  ],
+
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  "frontend": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+
+  "database": [
+    "SQL Server"
+  ],
+
+  "tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Postman"
+  ]
+}
+```
+
+</td>
+</tr>
+</table>
 
 
 
