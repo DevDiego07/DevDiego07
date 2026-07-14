@@ -5,7 +5,7 @@
 ### Software Engineering Student • Backend Developer
 
 <p>
-Building backend applications with <strong>.NET</strong>, <strong>Node.js</strong>, <strong>Express</strong> and <strong>SQL Server</strong>.
+Building backend applications | AI Automation.
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Always+Learning+New+Things" />
