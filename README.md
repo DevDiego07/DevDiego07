@@ -4,91 +4,115 @@
 
 ### Software Engineering Student • Backend Developer
 
-<p>
-Building scalable applications with <b>.NET</b>, <b>SQL Server</b> and <b>JavaScript</b>.
-</p>
+Building backend applications with **.NET**, **Node.js**, **Express** and **SQL Server**.
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Building+REST+APIs;Learning+Something+New+Every+Day;Always+Creating+Something+Cool" />
 
 </div>
 
 ---
 
 <table>
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ## 👨‍💻 About Me
 
-```csharp
-public class Diego
+```json
 {
-    public string Role = "Backend Developer";
+  "name": "Diego Peralta Reyes",
+  "role": "Backend Developer",
+  "education": "Software Engineering Student",
+  "location": "Dominican Republic",
 
-    public string Education =
-        "Software Engineering Student";
+  "backend": [
+    ".NET",
+    "Node.js",
+    "Express"
+  ],
 
-    public string Location =
-        "Dominican Republic";
+  "database": [
+    "SQL Server"
+  ],
 
-    public string Focus =
-        ".NET • SQL Server • REST APIs";
+  "frontend": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
 
-    public string CurrentGoal =
-        "Build real-world software";
+  "goal": "Build scalable applications"
 }
 ```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ## ⚙️ Tech Stack
 
-<p align="center">
+🔹 .NET
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,js,git,github,vscode,html,css"/>
+🔹 C#
 
-</p>
+🔹 Node.js
+
+🔹 Express
+
+🔹 SQL Server
+
+🔹 JavaScript
+
+🔹 HTML5
+
+🔹 CSS3
+
+🔹 Git
+
+🔹 GitHub
+
+🔹 Visual Studio
+
+🔹 VS Code
 
 <br>
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
-- ASP.NET Core
-- SQL Server
-- Clean Architecture
-- REST APIs
-- Software Design Principles
+🔹 ASP.NET Core
+
+🔹 REST APIs
+
+🔹 Clean Architecture
+
+🔹 Backend Best Practices
+
+🔹 Software Design Principles
 
 </td>
 
 </tr>
+
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevDiego07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDiego07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
 ## 📫 Contact
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/TUUSUARIO">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+LinkedIn • Portfolio *(Coming Soon)* • Email
 
-<a href="mailto:TUEMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+</div>
 
-</p>
+---
+
+<div align="center">
+
+> *"Code is more than syntax — it's about solving real problems."*
+
+</div>
