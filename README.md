@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td width="35%" style="width: 35%; min-width: 35%;" valign="top">
+<td width="40%"  valign="top">
 
 **about.json**
 
@@ -21,6 +21,12 @@
   "specialization": "Node.js",
   "education": "Software Engineering Student",
   "location": "Dominican Republic",
+
+"contact": {
+    "email": "peraltareyesdiego@gmail.com",
+    "linkedin": "[linkedin.com/in/diegoperaltareyes](https://linkedin.com/in/diegoperaltareyes)",
+    "portfolio": "https://devdiego07.github.io/Portafolio-web/"
+  }
 
   "currently": [
     "Learning Backend Development",
@@ -45,7 +51,7 @@
 ```
 
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 **skills.json**
 
