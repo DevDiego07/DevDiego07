@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 **about.json**
 
@@ -45,7 +45,7 @@
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 **skills.json**
 
