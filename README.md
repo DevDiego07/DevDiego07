@@ -53,20 +53,15 @@
 ```json
 {
   "languages": [
-    "JavaScript",
-    "Python"
+    "JavaScript", "Python"
   ],
 
   "backend": [
-    "Node.js",
-    "Express.js",
-    "REST APIs"
+    "Node.js", "Express.js", "REST APIs"
   ],
-
+ 
   "frontend": [
-    "HTML",
-    "CSS",
-    "JavaScript"
+    "HTML", "CSS", "JavaScript"
   ],
 
   "database": [
@@ -74,10 +69,7 @@
   ],
 
   "tools": [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman"
+    "Git", "GitHub", "VS Code", "Postman"
   ]
 }
 ```
