@@ -1,31 +1,28 @@
-<div align="center">
-
-# Diego Peralta Reyes
-
-### Software Engineering Student • Backend Developer
-
-<p>
-Passionate about software development and continuous learning.
-</p>
-
-</div>
-
----
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 About Me
 
 ```json
 {
-  "nombre": "Diego Peralta Reyes",
-  "carrera": "Ingeniería de Software",
-  "rol": "Backend Developer",
-  "enfoque": "Desarrollo de Software",
-  "estado": "Aprendiendo y construyendo proyectos"
+  "name": "Diego Peralta Reyes",
+  "role": "Backend Developer",
+  "education": "Software Engineering Student",
+  "location": "Dominican Republic",
+
+  "currently": [
+    "Learning software development",
+    "Building real-world projects",
+    "Improving programming skills"
+  ],
+
+  "goals": [
+    "Backend Development",
+    "Open Source",
+    "Continuous Learning"
+  ]
 }
 ```
 
@@ -33,73 +30,36 @@ Passionate about software development and continuous learning.
 
 <td width="50%" valign="top">
 
-## 🔹 Tecnologías
+## ⚙️ Tech Stack
 
-🔹 JavaScript
+```json
+{
+  "backend": [
+    ".NET",
+    "Node.js",
+    "Express"
+  ],
 
-🔹 Python
+  "frontend": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
 
-🔹 C#
+  "database": [
+    "SQL Server"
+  ],
 
-🔹 SQL
-
-🔹 Git
-
-🔹 GitHub
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎯 Objetivos
-
-🔹 Mejorar mis habilidades de programación.
-
-🔹 Especializarme en desarrollo backend.
-
-🔹 Construir proyectos reales para mi portafolio.
-
-🔹 Contribuir a proyectos de código abierto.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚀 Actualmente
-
-🔹 Estudiando desarrollo de software.
-
-🔹 Construyendo proyectos para fortalecer mi lógica de programación.
-
-🔹 Aprendiendo buenas prácticas de desarrollo.
+  "tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Visual Studio"
+  ]
+}
+```
 
 </td>
 
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## 📫 Contacto
-
-LinkedIn • Email • Portfolio (Próximamente)
-
-</div>
-
----
-
-<div align="center">
-
-*"Siempre aprendiendo, siempre construyendo."*
-
-</div>
