@@ -1,6 +1,10 @@
 # Diego Peralta Reyes
 
-### Software Engineering Student • Backend Developer
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Developer;Node.js+Developer;JavaScript+Enthusiast;AI+Automation)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -14,7 +18,7 @@
 │                                                      │                                                                   │
 │ {                                                    │ {                                                                 │
 │   "name": "Diego Peralta Reyes",                     │   "languages": [                                                  │
-│   "role": "Backend Developer",                       │      "JavaScript"                                                 │
+│   "role": "Backend Developer",                       │      "JavaScript"                                                │
 │   "specialization": "Node.js",                       │   ],                                                              │
 │   "education": "Software Engineering Student",       │                                                                   │
 │   "location": "Dominican Republic",                  │   "backend": [                                                    │
