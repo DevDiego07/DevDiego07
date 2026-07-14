@@ -4,108 +4,95 @@
 
 ### Software Engineering Student • Backend Developer
 
-Building backend applications with **.NET**, **Node.js**, **Express** and **SQL Server**.
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Building+REST+APIs;Learning+Something+New+Every+Day;Always+Creating+Something+Cool" />
+<p>
+Passionate about software development and continuous learning.
+</p>
 
 </div>
 
 ---
 
 <table>
-
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mí
 
 ```json
 {
-  "name": "Diego Peralta Reyes",
-  "role": "Backend Developer",
-  "education": "Software Engineering Student",
-  "location": "Dominican Republic",
-
-  "backend": [
-    ".NET",
-    "Node.js",
-    "Express"
-  ],
-
-  "database": [
-    "SQL Server"
-  ],
-
-  "frontend": [
-    "HTML",
-    "CSS",
-    "JavaScript"
-  ],
-
-  "goal": "Build scalable applications"
+  "nombre": "Diego Peralta Reyes",
+  "carrera": "Ingeniería de Software",
+  "rol": "Backend Developer",
+  "enfoque": "Desarrollo de Software",
+  "estado": "Aprendiendo y construyendo proyectos"
 }
 ```
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-## ⚙️ Tech Stack
-
-🔹 .NET
-
-🔹 C#
-
-🔹 Node.js
-
-🔹 Express
-
-🔹 SQL Server
+## 🔹 Tecnologías
 
 🔹 JavaScript
 
-🔹 HTML5
+🔹 Python
 
-🔹 CSS3
+🔹 C#
+
+🔹 SQL
 
 🔹 Git
 
 🔹 GitHub
 
-🔹 Visual Studio
-
-🔹 VS Code
-
-<br>
-
-## 📚 Currently Learning
-
-🔹 ASP.NET Core
-
-🔹 REST APIs
-
-🔹 Clean Architecture
-
-🔹 Backend Best Practices
-
-🔹 Software Design Principles
-
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-## 📫 Contact
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎯 Objetivos
+
+🔹 Mejorar mis habilidades de programación.
+
+🔹 Especializarme en desarrollo backend.
+
+🔹 Construir proyectos reales para mi portafolio.
+
+🔹 Contribuir a proyectos de código abierto.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Actualmente
+
+🔹 Estudiando desarrollo de software.
+
+🔹 Construyendo proyectos para fortalecer mi lógica de programación.
+
+🔹 Aprendiendo buenas prácticas de desarrollo.
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-LinkedIn • Portfolio *(Coming Soon)* • Email
+## 📫 Contacto
+
+LinkedIn • Email • Portfolio (Próximamente)
 
 </div>
 
@@ -113,6 +100,6 @@ LinkedIn • Portfolio *(Coming Soon)* • Email
 
 <div align="center">
 
-> *"Code is more than syntax — it's about solving real problems."*
+*"Siempre aprendiendo, siempre construyendo."*
 
 </div>
